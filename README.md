@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilshellerhoff
 - 👀 I’m interested in lot's of stuff, especially in data driven applications
-- 🌱 I’m currently finishing my physics studies with my masters thesis in Quantum Communications
+- 🌱 I’m currently finishing my physics studies with a masters thesis in Quantum Communications
 - 📫 How to reach me: Just write me an email at me@nils-hellerhoff.de
 
 <!---
